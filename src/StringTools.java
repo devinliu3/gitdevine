@@ -11,6 +11,7 @@ public class StringTools {
 		System.out.println(Math.floor(231.1)+"aaaabsdfsab");
 		System.out.println(Math.floor(21.1)+"aaaabsdfsab");
 		
+
  
 	}
 	
