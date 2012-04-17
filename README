@@ -1,0 +1,6 @@
+Use the following commands to sync with master:
+git remote add --track master ericchangzmm git@github.com:ericchangzmm/gitdevine.git
+git remote
+git fetch ericchangzmm
+git merge ericchangzmm/master
+git push
